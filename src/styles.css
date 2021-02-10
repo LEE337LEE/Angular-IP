@@ -1,1 +1,5 @@
-/* You can add global styles to this file, and also import other style files */
+*{
+    /* background-image: url(https://user-images.githubusercontent.com/70142465/107417517-be442b80-6b26-11eb-94a5-26cc78b71f21.jpg); */
+    background-attachment: fixed;
+    /* color: wheat; */
+}
